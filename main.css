@@ -1,0 +1,69 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.25rem;
+    text-align: left;
+    color: #1B202B;
+    margin: 0;
+    overflow-x: hidden;
+    line-height: 1.5em;
+}
+
+date {
+    font-size: 1rem;
+}
+
+footer {
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1rem;
+    opacity: 0.5;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+.content {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: block;
+}
+
+.title {
+    margin-bottom: 50px;
+}
+
+.intro {
+    padding-bottom: 20px;
+}
+
+.norming-episodes {
+    columns: 2;
+    padding-left: 0px;
+    list-style-type: none;
+}
+
+.norming-episodes li .episode-date {
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+a {
+    color: rgb(27,32,43);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.references {
+    list-style-type: none;
+    font-size: 1rem;
+    margin-top: 20px;
+}
