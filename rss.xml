@@ -6,8 +6,8 @@
     <description>A suscinct podcast about standards. One episode per month, 10 minutes per episode. No more, no less.</description>
     <language>en-us</language>
     <copyright>Norming</copyright>
-    <managingEditor>michael@mcandrew.dev (Michael McAndrew)</managingEditor>
-    <webMaster>michael@mcandrew.dev (Michael McAndrew)</webMaster>
+    <managingEditor>michael@corribdigital.com (Michael McAndrew)</managingEditor>
+    <webMaster>michael@corribdigital.com (Michael McAndrew)</webMaster>
     <pubDate>Sat, 01 Oct 2022 12:07:00 +0000</pubDate>
     <lastBuildDate>Sat, 01 Oct 2022 12:07:00 +0000</lastBuildDate>
     <category/>
@@ -42,7 +42,7 @@
     <itunes:image href="https://normi.ng/coverart.jpg"/>
     <itunes:owner>
       <itunes:name>Michael McAndrew</itunes:name>
-      <itunes:email>michael@mcandrew.dev</itunes:email>
+      <itunes:email>michael@corribdigital.com</itunes:email>
     </itunes:owner>
     <itunes:block>yes</itunes:block>
     <itunes:explicit>no</itunes:explicit>
