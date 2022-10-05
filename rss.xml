@@ -39,7 +39,7 @@
     </item>
     <atom:link href="https://normi.ng/rss.xml" type="application/rss+xml" rel="self"></atom:link>
     <itunes:author>Michael McAndrew</itunes:author>
-    <itunes:image href="https://normi.ng/coverart.jpg"/>
+    <itunes:image href="https://normi.ng/img/coverart.jpg"/>
     <itunes:owner>
       <itunes:name>Michael McAndrew</itunes:name>
       <itunes:email>michael@corribdigital.com</itunes:email>
