@@ -18,6 +18,29 @@
       <link>https://normi.ng</link>
     </image>
     <item>
+      <title>The 12 Note Tuning System</title>
+      <link>https://normi.ng/music-notes</link>
+      <description>
+        There are 12 notes in the Western system of tuning and I've always been curious as to why we settled on 12 notes in particular. A 10 note system seemed particularly logical to me.
+        It turns out that the answer is somewhat of a mystery.
+      </description>
+      <content:encoded>
+        There are 12 notes in the Western system of tuning and I've always been curious as to why we settled on 12 notes in particular. A 10 note system seemed particularly logical to me.
+        It turns out that the answer is somewhat of a mystery.
+      </content:encoded>
+      <author>norming</author>
+      <enclosure url="https://ia601501.us.archive.org/29/items/norming_002_music_notes/norming_002_music_notes.mp3" length="5484751" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://normi.ng/music-notes</guid>
+      <pubDate>Thu, 03 Nov 2022 09:00:00 +0000</pubDate>
+      <itunes:author>norming</itunes:author>
+      <itunes:image href="https://normi.ng/img/coverart.jpg"/>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:summary>
+        There are 12 notes in the Western system of tuning and I've always been curious as to why we settled on 12 notes in particular. A 10 note system seemed particularly logical to me.
+        It turns out that the answer is somewhat of a mystery.
+      </itunes:summary>
+    </item>
+    <item>
       <title>PDF</title>
       <link>https://normi.ng/pdf</link>
       <description>
@@ -29,7 +52,7 @@
       <author>norming</author>
       <enclosure url="https://ia601505.us.archive.org/33/items/norming_001_pdf/norming_001_pdf.mp3" length="5484751" type="audio/mpeg"/>
       <guid isPermaLink="true">https://normi.ng/pdf</guid>
-      <pubDate>Fri, 25 Sep 2022 09:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 09:00:00 +0000</pubDate>
       <itunes:author>norming</itunes:author>
       <itunes:image href="https://normi.ng/img/coverart.jpg"/>
       <itunes:duration>00:10:00</itunes:duration>
