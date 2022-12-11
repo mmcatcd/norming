@@ -3,7 +3,7 @@
   <channel>
     <title>Norming</title>
     <link>https://normi.ng</link>
-    <description>A suscinct podcast about standards. One episode per month, 10 minutes per episode. No more, no less.</description>
+    <description>A succinct podcast about standards. One episode per month, 10 minutes per episode. No more, no less.</description>
     <language>en-us</language>
     <copyright>Norming</copyright>
     <managingEditor>michael@corribdigital.com (Michael McAndrew)</managingEditor>
@@ -17,6 +17,29 @@
       <title>Norming</title>
       <link>https://normi.ng</link>
     </image>
+    <item>
+      <title>Film Frame Rates</title>
+      <link>https://normi.ng/frame-rates</link>
+      <description>
+        In December 2009, the first Avatar film was released in cinemas. The film pushed the boundaries of what was possible in cinema at the time, and made the film industry consider strongly, the use of 3D technology.
+        12 years later, James Cameron is back at it again, this time pushing variable high frame rates.
+      </description>
+      <content:encoded>
+        In December 2009, the first Avatar film was released in cinemas. The film pushed the boundaries of what was possible in cinema at the time, and made the film industry consider strongly, the use of 3D technology.
+        12 years later, James Cameron is back at it again, this time pushing variable high frame rates.
+      </content:encoded>
+      <author>norming</author>
+      <enclosure url="https://ia904701.us.archive.org/34/items/norming_003_film_frame_rate_202212/norming_003_film_frame_rate.mp3" length="5484751" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://normi.ng/frame-rates</guid>
+      <pubDate>Sun, 11 Dec 2022 09:00:00 +0000</pubDate>
+      <itunes:author>norming</itunes:author>
+      <itunes:image href="https://normi.ng/img/coverart.jpg"/>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:summary>
+        In December 2009, the first Avatar film was released in cinemas. The film pushed the boundaries of what was possible in cinema at the time, and made the film industry consider strongly, the use of 3D technology.
+        12 years later, James Cameron is back at it again, this time pushing variable high frame rates.
+      </itunes:summary>
+    </item>
     <item>
       <title>The 12 Note Tuning System</title>
       <link>https://normi.ng/music-notes</link>
