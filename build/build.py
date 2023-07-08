@@ -12,6 +12,7 @@ from build.rss import build_rss
 EPISODE_PATH = "episodes"
 
 def _copy_static_files():
+  shutil.copytree("static", "public", dirs_exist_ok=True)
   src_files = os.listdir("static")
   for file_name in src_files:
       full_file_name = os.path.join("static", file_name)
