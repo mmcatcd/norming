@@ -1,0 +1,28 @@
+<html lang="en-us">
+  {% include "header.html" %}
+  <body>
+    <div class="content">
+      <div class="intro">
+        <p>A succinct podcast about norms. One episode per month, 10 minutes per episode. No more, no less.</p>
+      </div>
+      <div class="episodes">
+        {% for year, episodes in episodes_by_year.items() %}
+        <div>
+          <h2>{{ year }}</h2>
+          <ul class="norming-episodes">
+            {% for episode in episodes %}
+            <li>
+              <span class="episode-date">{{ episode.date.strftime(date_format) }}</span>
+              <span class="intro">
+                <a href="./{{ episode.name }}.html">{{ episode.title }}</a>
+              </span>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </body>
+  {% include "footer.html" %}
+</html>
