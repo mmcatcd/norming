@@ -1,0 +1,115 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.25rem;
+    text-align: left;
+    color: #1B202B;
+    margin: 0;
+    overflow-x: hidden;
+    line-height: 1.5em;
+}
+
+date {
+    font-size: 1rem;
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    opacity: 0.5;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+.content {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: block;
+    min-height: calc(100vh - 160px);
+}
+
+.title {
+    margin: 50px auto;
+    max-width: 500px;
+}
+
+.intro {
+    padding-bottom: 20px;
+}
+
+.norming-episodes {
+    padding-left: 0px;
+    list-style-type: none;
+}
+
+.norming-episodes li .episode-date {
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.norming-episodes li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: rgb(27,32,43);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.references {
+    list-style-type: none;
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+.sine-wave-container {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.sine-wave-list li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.note-button {
+    border: 2px solid #1B202B;
+    font-size: 1.5rem;
+    background: none;
+    width: 60px;
+    margin-top: 20px;
+}
+
+.note-button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.active-note-button {
+    opacity: 0.5;
+}
+
+.note-input-box {
+    border: 2px solid #1B202B;
+    background: none;
+    font-size: 1.25rem;
+    margin-left: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+figcaption {
+    font-size: 1.0rem;
+    font-style: italic;
+    text-align: center;
+}

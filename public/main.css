@@ -27,12 +27,12 @@ ul {
     margin: 0 auto;
     padding: 0 20px;
     display: block;
-    min-height: calc(100vh - 100px);
+    min-height: calc(100vh - 160px);
 }
 
 .title {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin: 50px auto;
+    max-width: 500px;
 }
 
 .intro {

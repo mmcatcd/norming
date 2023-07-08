@@ -1,32 +1,23 @@
 from datetime import date
+from jinja2 import Environment, FileSystemLoader
+import os
+
+environment = Environment(loader=FileSystemLoader("templates/"))
+STATIC_DIR = "public"
 
 def get_html_string(episode):
   current_year = str(date.today().year)
-  return f"""<html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Norming</title>
-    <link rel="stylesheet" type="text/css" href="main.css">
-  </head>
-  <body>
-    <div class="content">
-      <h1 class="title"><a href="./">∥<em>Norming</em>∥</a></h1>
-      <date>{episode.formatted_date}</date>
-      <h2>{episode.title}</h2>
-      <div>
-        <iframe style="border-radius:12px" src="{episode.spotify}" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-      </div>
-      <br />
-      <div class="episode-content">{episode.content}</div>
-    </div>
-    <footer>© {current_year} MMcA</footer>
-  </body>
-</html>"""
+  template = environment.get_template("post.html")
+
+  return template.render(episode=episode, current_year=current_year)
+
 
 def build_episodes(episodes):
+    if not os.path.exists(STATIC_DIR):
+      os.makedirs(STATIC_DIR)
+
     for episode in episodes:
       html_string = get_html_string(episode)
 
-      with open(f"{episode.name}.html", "w") as html_file:
+      with open(f"{STATIC_DIR}/{episode.name}.html", "w") as html_file:
         html_file.write(html_string)
