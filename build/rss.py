@@ -1,7 +1,7 @@
 import inspect
 
 
-RSS_NAME = "rss.xml"
+RSS_NAME = "static/rss.xml"
 RSS_DATE_FORMAT = "%a, %d %b %Y"
 
 
