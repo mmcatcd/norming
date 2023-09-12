@@ -14,7 +14,7 @@ def build_rss(episodes):
       {episode.description}</description>
     <content:encoded>
       {episode.description}</content:encoded>
-    <author>norming</author>
+    <author>michael@normi.ng</author>
     <enclosure url="{episode.audio_file}" length="5484751" type="audio/mpeg"/>
     <guid isPermaLink="true">https://normi.ng/{episode.name}</guid>
     <pubDate>{episode.date.strftime(RSS_DATE_FORMAT)} 09:00:00 +0000</pubDate>
@@ -54,7 +54,7 @@ def build_rss(episodes):
         <itunes:email>michael@corribdigital.com</itunes:email>
       </itunes:owner>
       <itunes:block>yes</itunes:block>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <itunes:category text="Technology"/>
     </channel>
   </rss>
