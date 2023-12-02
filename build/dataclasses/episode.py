@@ -3,6 +3,7 @@ from datetime import datetime
 import os
 
 DATE_FORMAT = "%B %d, %Y"
+DEFAULT_COVERART_URL = "https://normi.ng/img/coverart.jpg"
 
 @dataclass
 class Episode:
@@ -14,6 +15,7 @@ class Episode:
   description: str
   content: str
   file_path: str
+  cover_art: str
 
   @staticmethod
   def from_markdown(md, file_path):
@@ -24,6 +26,7 @@ class Episode:
       duration=md["duration"],
       spotify=md["spotify"],
       description=md["description"],
+      cover_art=md["cover_art"] if "cover_art" in md else DEFAULT_COVERART_URL,
       content=md.content,
       file_path=file_path,
     )

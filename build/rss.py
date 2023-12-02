@@ -19,7 +19,7 @@ def build_rss(episodes):
     <guid isPermaLink="true">https://normi.ng/{episode.name}</guid>
     <pubDate>{episode.date.strftime(RSS_DATE_FORMAT)} 09:00:00 +0000</pubDate>
     <itunes:author>norming</itunes:author>
-    <itunes:image href="https://normi.ng/img/coverart.jpg"/>
+    <itunes:image href="{episode.cover_art}"/>
     <itunes:duration>{episode.duration}</itunes:duration>
     <itunes:summary>
       {episode.description}</itunes:summary>

@@ -18,7 +18,27 @@
         <link>https://normi.ng</link>
       </image>
         <item>
-    <title>Bonus: World Standards Day 2023</title>
+    <title>Daylight Saving Time</title>
+    <link>https://normi.ng/daylight-saving</link>
+    <description>
+      If you live in one of 70 odd countries with Daylight Saving Time, changing your clocks twice a year is a normal part of life. But in the rest of the world in this day and age, this practice seems bizarre. Should we just do away with it altogether?
+</description>
+    <content:encoded>
+      If you live in one of 70 odd countries with Daylight Saving Time, changing your clocks twice a year is a normal part of life. But in the rest of the world in this day and age, this practice seems bizarre. Should we just do away with it altogether?
+</content:encoded>
+    <author>michael@normi.ng</author>
+    <enclosure url="https://ia801209.us.archive.org/20/items/norming_012/norming_012.mp3" length="5484751" type="audio/mpeg"/>
+    <guid isPermaLink="true">https://normi.ng/daylight-saving</guid>
+    <pubDate>Sat, 02 Dec 2023 09:00:00 +0000</pubDate>
+    <itunes:author>norming</itunes:author>
+    <itunes:image href="https://normi.ng/img/daylight-saving-time/coverart.jpg"/>
+    <itunes:duration>00:10:00</itunes:duration>
+    <itunes:summary>
+      If you live in one of 70 odd countries with Daylight Saving Time, changing your clocks twice a year is a normal part of life. But in the rest of the world in this day and age, this practice seems bizarre. Should we just do away with it altogether?
+</itunes:summary>
+  </item>
+    <item>
+    <title>Bonus: World Standards Day</title>
     <link>https://normi.ng/world-standards-day-2023</link>
     <description>
       Happy World Standards Day 2023! To celebrate, I rate every norm featured on Norming to date, on a five-star scale.
