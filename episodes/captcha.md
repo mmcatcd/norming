@@ -3,7 +3,7 @@ title: "CAPTCHA"
 date: 2023-12-16
 audio_file: https://ia801209.us.archive.org/12/items/norming_013/norming_013.mp3
 duration: 00:10:00
-spotify: ""
+spotify: https://open.spotify.com/embed/episode/2aQBX8G6Djwq3yXob3Fzwq?utm_source=generator&theme=0
 cover_art: https://normi.ng/img/captcha/coverart.jpg
 description: >
   CAPTCHA is a test to distinguish humans from computers on the internet. But with computers becoming better
