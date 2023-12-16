@@ -18,6 +18,26 @@
         <link>https://normi.ng</link>
       </image>
         <item>
+    <title>CAPTCHA</title>
+    <link>https://normi.ng/captcha</link>
+    <description>
+      CAPTCHA is a test to distinguish humans from computers on the internet. But with computers becoming better at things that were previously only possible by humans, does it still work today?
+</description>
+    <content:encoded>
+      CAPTCHA is a test to distinguish humans from computers on the internet. But with computers becoming better at things that were previously only possible by humans, does it still work today?
+</content:encoded>
+    <author>michael@normi.ng</author>
+    <enclosure url="https://ia801209.us.archive.org/12/items/norming_013/norming_013.mp3" length="5484751" type="audio/mpeg"/>
+    <guid isPermaLink="true">https://normi.ng/captcha</guid>
+    <pubDate>Sat, 02 Dec 2023 09:00:00 +0000</pubDate>
+    <itunes:author>norming</itunes:author>
+    <itunes:image href="https://normi.ng/img/captcha/coverart.jpg"/>
+    <itunes:duration>00:10:00</itunes:duration>
+    <itunes:summary>
+      CAPTCHA is a test to distinguish humans from computers on the internet. But with computers becoming better at things that were previously only possible by humans, does it still work today?
+</itunes:summary>
+  </item>
+    <item>
     <title>Daylight Saving Time</title>
     <link>https://normi.ng/daylight-saving</link>
     <description>
@@ -27,7 +47,7 @@
       If you live in one of 70 odd countries with Daylight Saving Time, changing your clocks twice a year is a normal part of life. But in the rest of the world in this day and age, this practice seems bizarre. Should we just do away with it altogether?
 </content:encoded>
     <author>michael@normi.ng</author>
-    <enclosure url="https://ia801209.us.archive.org/20/items/norming_012/norming_012.mp3" length="5484751" type="audio/mpeg"/>
+    <enclosure url="https://ia601202.us.archive.org/2/items/norming_012_202312/norming_012.mp3" length="5484751" type="audio/mpeg"/>
     <guid isPermaLink="true">https://normi.ng/daylight-saving</guid>
     <pubDate>Sat, 02 Dec 2023 09:00:00 +0000</pubDate>
     <itunes:author>norming</itunes:author>
