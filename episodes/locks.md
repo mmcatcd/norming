@@ -3,7 +3,7 @@ title: "Locks"
 date: 2024-01-21
 audio_file: https://ia601303.us.archive.org/32/items/norming_014/norming_014.mp3
 duration: 00:10:00
-spotify: ""
+spotify: https://open.spotify.com/embed/episode/4BYBfjUCjd8YmGvPLIHFvl?utm_source=generator&theme=0
 cover_art: https://normi.ng/img/locks/coverart.jpg
 description: >
   Most people feel a sense of security when they lock something that they own. But this sense of security is misplaced. Most locks that we use in our homes can be picked in a few minutes flat. So why do we still use them?
