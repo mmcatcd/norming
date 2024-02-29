@@ -18,6 +18,26 @@
         <link>https://normi.ng</link>
       </image>
         <item>
+    <title>Leap Years</title>
+    <link>https://normi.ng/leap-years</link>
+    <description>
+      Happy leap year! It's pretty easy to figure out when we have a leap year, right? Nothing about time is what it seems. Let's find out why.
+</description>
+    <content:encoded>
+      Happy leap year! It's pretty easy to figure out when we have a leap year, right? Nothing about time is what it seems. Let's find out why.
+</content:encoded>
+    <author>michael@normi.ng</author>
+    <enclosure url="https://ia601309.us.archive.org/25/items/norming_015/norming_015.mp3" length="5484751" type="audio/mpeg"/>
+    <guid isPermaLink="true">https://normi.ng/leap-years</guid>
+    <pubDate>Thu, 29 Feb 2024 09:00:00 +0000</pubDate>
+    <itunes:author>norming</itunes:author>
+    <itunes:image href="https://normi.ng/img/leap-years/coverart.jpg"/>
+    <itunes:duration>00:10:00</itunes:duration>
+    <itunes:summary>
+      Happy leap year! It's pretty easy to figure out when we have a leap year, right? Nothing about time is what it seems. Let's find out why.
+</itunes:summary>
+  </item>
+    <item>
     <title>Locks</title>
     <link>https://normi.ng/locks</link>
     <description>
