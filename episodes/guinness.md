@@ -3,7 +3,7 @@ title: "Guinness"
 date: 2024-06-29
 audio_file: https://ia600400.us.archive.org/22/items/norming_017/norming_017.mp3
 duration: 00:10:00
-spotify: ""
+spotify: https://open.spotify.com/embed/episode/0JRoXIl8vfvVz1VsfsiEtT?utm_source=generator&theme=0
 cover_art: ""
 description: >
   Some European countries like France or Italy are known for incredible food cultures. Ireland on the other hand,
