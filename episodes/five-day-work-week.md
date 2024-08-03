@@ -3,7 +3,7 @@ title: "The Five-Day Work Week"
 date: 2024-08-03
 audio_file: https://ia600102.us.archive.org/11/items/norming_018/norming_018.mp3
 duration: 00:10:00
-spotify: ""
+spotify: "https://open.spotify.com/embed/episode/4yFa9Q09vDVCq8TpvFWr5e?utm_source=generator&theme=0"
 cover_art: ""
 description: >
   The 40 hour, 5 day work week became the norm for industrialised countries almost 90 years ago, and it hasn’t changed much since. So why are we still working on average 8 hours a day, 5 days a week, and does it still work all these years later?
