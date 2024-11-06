@@ -14,7 +14,7 @@ def build_rss(episodes):
       {episode.description}</description>
     <content:encoded>
       {episode.description}</content:encoded>
-    <author>michael@normi.ng</author>
+    <author>servomind@gmail.com</author>
     <enclosure url="{episode.audio_file}" length="5484751" type="audio/mpeg"/>
     <guid isPermaLink="true">https://normi.ng/{episode.name}</guid>
     <pubDate>{episode.date.strftime(RSS_DATE_FORMAT)} 09:00:00 +0000</pubDate>
@@ -34,8 +34,8 @@ def build_rss(episodes):
       <description>A succinct podcast about norms. One episode per month, 10 minutes per episode. No more, no less.</description>
       <language>en-us</language>
       <copyright>Norming</copyright>
-      <managingEditor>michael@corribdigital.com (Michael McAndrew)</managingEditor>
-      <webMaster>michael@corribdigital.com (Michael McAndrew)</webMaster>
+      <managingEditor>servomind@gmail.com (Michael McAndrew)</managingEditor>
+      <webMaster>servomind@gmail.com (Michael McAndrew)</webMaster>
       <pubDate>Sat, 01 Oct 2022 12:07:00 +0000</pubDate>
       <lastBuildDate>Sat, 01 Oct 2022 12:07:00 +0000</lastBuildDate>
       <category/>
@@ -51,7 +51,7 @@ def build_rss(episodes):
       <itunes:image href="https://normi.ng/img/coverart.jpg"/>
       <itunes:owner>
         <itunes:name>Michael McAndrew</itunes:name>
-        <itunes:email>michael@corribdigital.com</itunes:email>
+        <itunes:email>servomind@gmail.com</itunes:email>
       </itunes:owner>
       <itunes:block>yes</itunes:block>
       <itunes:explicit>false</itunes:explicit>
