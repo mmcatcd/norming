@@ -1,7 +1,7 @@
 ---
 title: Film Frame Rates
 date: 2022-12-11
-audio_file: https://ia904701.us.archive.org/34/items/norming_003_film_frame_rate_202212/norming_003_film_frame_rate.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94179668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Fe53c70a3-d09f-07ac-bf32-18ca663d368e.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/4WYKqJh7GgoI9Cb4hts1CP?utm_source=generator&theme=0
 description: >

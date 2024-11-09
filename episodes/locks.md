@@ -1,7 +1,7 @@
 ---
 title: "Locks"
 date: 2024-01-21
-audio_file: https://ia601303.us.archive.org/32/items/norming_014/norming_014.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94071266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389379673-44100-1-4f7f28d0311b1fc3.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/4BYBfjUCjd8YmGvPLIHFvl?utm_source=generator&theme=0
 cover_art: https://normi.ng/img/locks/coverart.jpg

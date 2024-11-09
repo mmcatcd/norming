@@ -1,7 +1,7 @@
 ---
 title: Accept All Cookies?
 date: 2023-03-12
-audio_file: https://ia804705.us.archive.org/13/items/norming_006_cookies/norming_006_cookies.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94071253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389379658-44100-1-86f6b0c575ea7a95.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/57IYVUZ3rCRbJbdoAdUFdy?utm_source=generator&theme=0
 description: >

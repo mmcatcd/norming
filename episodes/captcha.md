@@ -1,7 +1,7 @@
 ---
 title: "CAPTCHA"
 date: 2023-12-16
-audio_file: https://ia801209.us.archive.org/12/items/norming_013/norming_013.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94071295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389379708-44100-1-1101ba0ff8026ced.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/2aQBX8G6Djwq3yXob3Fzwq?utm_source=generator&theme=0
 cover_art: https://normi.ng/img/captcha/coverart.jpg

@@ -1,7 +1,7 @@
 ---
 title: PDF
 date: 2022-09-25
-audio_file: https://ia601505.us.archive.org/33/items/norming_001_pdf/norming_001_pdf.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94071262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389379666-44100-1-3cd311421984733f.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/3doy9KvVzdpdaFlwtRLCp9?utm_source=generator&theme=0
 description: >

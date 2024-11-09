@@ -1,7 +1,7 @@
 ---
 title: "The Five-Day Work Week"
 date: 2024-08-03
-audio_file: https://ia600102.us.archive.org/11/items/norming_018/norming_018.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94071259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389379671-44100-1-7747468dc6d82d35.mp3
 duration: 00:10:00
 spotify: "https://open.spotify.com/embed/episode/4yFa9Q09vDVCq8TpvFWr5e?utm_source=generator&theme=0"
 cover_art: ""

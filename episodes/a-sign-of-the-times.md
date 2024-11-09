@@ -1,7 +1,7 @@
 ---
 title: A Sign of the Times
 date: 2023-02-25
-audio_file: https://ia601607.us.archive.org/11/items/norming_005_sign_of_the_times/norming_005_sign_of_the_times.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94071264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389379663-44100-1-98bdc5c24e443432.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/1iE1ziLZX4Wae47Pw0LqRJ?utm_source=generator&theme=0
 description: >

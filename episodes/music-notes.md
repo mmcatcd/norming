@@ -1,7 +1,7 @@
 ---
 title: The 12 Note Tuning System
 date: 2022-10-03
-audio_file: https://ia601501.us.archive.org/29/items/norming_002_music_notes/norming_002_music_notes.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94071252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389379656-44100-1-9a518db304602776.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/4gut6GiM9yjtR36Aely1a2?utm_source=generator&theme=0
 description: >

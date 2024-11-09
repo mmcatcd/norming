@@ -1,7 +1,7 @@
 ---
 title: Electric Cars
 date: 2023-05-27
-audio_file: https://ia802602.us.archive.org/32/items/norming_008_202305/norming_008.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94180009/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Fbb49a27c-58be-3438-b111-28e5e514186a.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/08LIBGcth51AJFVlT1FSi7?utm_source=generator&theme=0&t=0
 description: >

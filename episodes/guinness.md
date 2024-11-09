@@ -1,7 +1,7 @@
 ---
 title: "Guinness"
 date: 2024-06-29
-audio_file: https://ia600400.us.archive.org/22/items/norming_017/norming_017.mp3
+audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94071265/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389379674-44100-1-226f3aafaed1fac6.mp3
 duration: 00:10:00
 spotify: https://open.spotify.com/embed/episode/0JRoXIl8vfvVz1VsfsiEtT?utm_source=generator&theme=0
 cover_art: ""
