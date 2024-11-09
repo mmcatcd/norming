@@ -11,19 +11,16 @@ def build_rss(episodes):
   <item>
     <title>{episode.title}</title>
     <link>https://normi.ng/{episode.name}</link>
-    <description>
-      {episode.description}</description>
-    <content:encoded>
-      {episode.description}</content:encoded>
+    <description>{episode.description}</description>
+    <content:encoded>{episode.description}</content:encoded>
     <author>{AUTHOR_EMAIL}</author>
     <enclosure url="{episode.audio_file}" length="5484751" type="audio/mpeg"/>
     <guid isPermaLink="true">https://normi.ng/{episode.name}</guid>
-    <pubDate>{episode.date.strftime(RSS_DATE_FORMAT)} 09:00:00 +0000</pubDate>
+    <pubDate>{episode.date.strftime(RSS_DATE_FORMAT)} 09:00:00 GMT</pubDate>
     <itunes:author>norming</itunes:author>
     <itunes:image href="{episode.cover_art}"/>
     <itunes:duration>{episode.duration}</itunes:duration>
-    <itunes:summary>
-      {episode.description}</itunes:summary>
+    <itunes:summary>{episode.description}</itunes:summary>
   </item>
   """) for episode in episodes]
 
@@ -37,9 +34,8 @@ def build_rss(episodes):
       <copyright>Norming</copyright>
       <managingEditor>{AUTHOR_EMAIL} (Michael McAndrew)</managingEditor>
       <webMaster>{AUTHOR_EMAIL} (Michael McAndrew)</webMaster>
-      <pubDate>Sat, 01 Oct 2022 12:07:00 +0000</pubDate>
-      <lastBuildDate>Sat, 01 Oct 2022 12:07:00 +0000</lastBuildDate>
-      <category/>
+      <pubDate>Sat, 01 Oct 2022 12:07:00 GMT</pubDate>
+      <lastBuildDate>Sat, 01 Oct 2022 12:07:00 GMT</lastBuildDate>
       <ttl>60</ttl>
       <image>
         <url>https://normi.ng/img/coverart.jpg</url>

@@ -4,7 +4,7 @@ date: 2024-11-09
 audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94180106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2F0015e638-b0c1-a319-342a-4ecfa8e16c93.mp3
 duration: 00:10:00
 spotify: "https://open.spotify.com/embed/episode/2tUSz5n4DKtdTVcR2eqExB?utm_source=generator&theme=0"
-cover_art: ""
+cover_art: "https://normi.ng/img/wayback-machine/coverart.jpg"
 description: >
   The library of Alexandria was one of the most famous libraries of the ancient world. The library was supposedly burned down, and with it, all the years of intellectual progress contained within it. This was the inspiration of a very Silicon Valley project, the Wayback machine.
 ---
