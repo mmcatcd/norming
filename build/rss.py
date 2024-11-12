@@ -52,7 +52,6 @@ def build_rss(episodes):
         <itunes:name>Michael McAndrew</itunes:name>
         <itunes:email>{AUTHOR_EMAIL}</itunes:email>
       </itunes:owner>
-      <itunes:block>yes</itunes:block>
       <itunes:explicit>false</itunes:explicit>
       <itunes:category text="Technology"/>
       {''.join(episodes_rss)}
